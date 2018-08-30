@@ -1,0 +1,47 @@
+body{
+    background-color: #c5dfc5;
+}
+
+.container{
+    width: 85%;
+    margin: 0 auto;
+}
+
+.fas.fa-cloud{
+    color: #e7f2e7;
+    font-size: 14em;
+}
+
+.letrasPequeñas{
+    font-size: 0.55em;
+}
+
+h1{
+    display: inline-block;
+    margin-left: -18%;
+    font-size: 3.5em;
+}
+
+.containerHeader{
+    display:inline-block;
+}
+
+.menu{
+    margin-top: 9em;
+    border: 3px solid gray;
+    border-left: none;
+    border-right: none;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    
+}
+
+.menu .navigation{
+    text-decoration: none;
+    padding: 1em 5em;
+}
+
+.containerH2{
+    display: inline-block;
+    width: 50%;
+}
